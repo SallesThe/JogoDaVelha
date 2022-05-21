@@ -1,4 +1,4 @@
-# Atenção :Exclamation:
+# Atenção ❗
 
 ### Jogo da Velha criado utilizando a linguagem C#. Espero que se divirtam.
 
